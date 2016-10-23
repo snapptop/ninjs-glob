@@ -1,0 +1,2 @@
+# ninjs-glob
+ninjs-glob
