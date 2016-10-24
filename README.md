@@ -1,2 +1,3 @@
 # ninjs-glob
-ninjs-glob
+
+ninjs-glob description
